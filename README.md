@@ -1,3 +1,3 @@
 # gitTest
 local work
-developing a responsive site.
+developing a responsive website.
